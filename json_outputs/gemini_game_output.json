@@ -1,0 +1,252 @@
+{
+  "Street Fighter 6": {
+    "genre": "Fighting",
+    "description": "Players engage in intense one-on-one martial arts combat, utilizing special moves and combos to defeat opponents in various game modes.",
+    "player_mode": "Both"
+  },
+  "Hunt: Showdown 1896": {
+    "genre": "Survival",
+    "description": "Hunt: Showdown 1896 is a competitive first-person bounty hunting game set in the Louisiana swamps, emphasizing strategic combat and resource management.",
+    "player_mode": "Multiplayer"
+  },
+  "Wuthering Waves": {
+    "genre": "Action",
+    "description": "Explore a vast, open world, engaging in intense combat encounters and uncovering a gripping narrative filled with mystery and intrigue.",
+    "player_mode": "Multiplayer"
+  },
+  "Arma Reforger": {
+    "genre": "Simulation",
+    "description": "Arma Reforger is a military simulation game set in a large open world, offering realistic combat and tactical gameplay.  Players engage in intense battles and complete various missions.",
+    "player_mode": "Both"
+  },
+  "Lethal Company": {
+    "genre": "Strategy",
+    "description": "Command a mercenary company, engaging in tactical combat, completing missions, and managing resources to survive and thrive in a war-torn world.",
+    "player_mode": "Singleplayer"
+  },
+  "Arena Breakout: Infinite": {
+    "genre": "FPS",
+    "description": "A first-person shooter game where players engage in intense arena combat with a focus on strategic equipment management and infinite replayability.",
+    "player_mode": "Multiplayer"
+  },
+  "Zenless Zone Zero": {
+    "genre": "Action",
+    "description": "Players explore a sprawling urban landscape, battling enemies and uncovering mysteries in a fast-paced action game with stylish combat.",
+    "player_mode": "Multiplayer"
+  },
+  "ARK: Survival Ascended": {
+    "genre": "Survival",
+    "description": "Players struggle to survive in a prehistoric world, taming dinosaurs, crafting items, and building bases to face various challenges and threats.",
+    "player_mode": "Both"
+  },
+  "Sid Meier's Civilization VII": {
+    "genre": "Strategy",
+    "description": "Players build and lead civilizations through history, engaging in diplomacy, warfare, and technological advancement to become the dominant world power.",
+    "player_mode": "Both"
+  },
+  "SMITE 2": {
+    "genre": "MMORPG",
+    "description": "SMITE 2 offers a massive online multiplayer experience, building upon the original with expanded mythology, enhanced character customization, and new game modes.",
+    "player_mode": "Multiplayer"
+  },
+  "Throne and Liberty": {
+    "genre": "MMORPG",
+    "description": "Explore a vast world, master diverse classes, and engage in thrilling large-scale battles against formidable creatures and players in a dynamic environment.",
+    "player_mode": "Multiplayer"
+  },
+  "Enshrouded": {
+    "genre": "Adventure",
+    "description": "Explore a mysterious, fog-laden world, solve environmental puzzles, and uncover a long-lost civilization's secrets.",
+    "player_mode": "Singleplayer"
+  },
+  "Poppy Playtime": {
+    "genre": "Horror",
+    "description": "Explore a creepy abandoned toy factory, solve puzzles, and evade terrifying creatures in this single-player horror adventure.",
+    "player_mode": "Singleplayer"
+  },
+  "It Takes Two": {
+    "genre": "Adventure",
+    "description": "Two players control a married couple magically transformed into dolls, cooperating to solve puzzles and overcome challenges to reverse the spell.",
+    "player_mode": "Multiplayer"
+  },
+  "DYNASTY WARRIORS: ORIGINS": {
+    "genre": "Action",
+    "description": "Players experience visceral battlefield combat as legendary warriors, engaging in dynamic clashes with hordes of enemies across vast landscapes.",
+    "player_mode": "Singleplayer"
+  },
+  "NHL 25": {
+    "genre": "Sports",
+    "description": "Play as your favorite NHL team and compete against other teams in a simulation of professional ice hockey.  Experience fast-paced action, strategic gameplay, and intense competition.",
+    "player_mode": "Both"
+  },
+  "Balatro": {
+    "genre": "Action",
+    "description": "Players engage in intense, fast-paced combat using a variety of weapons and abilities to defeat enemies and complete objectives.",
+    "player_mode": "Singleplayer"
+  },
+  "MiSide": {
+    "genre": "Unknown",
+    "description": "Error: RetryError[<Future at 0x161224cb250 state=finished raised ResourceExhausted>]",
+    "player_mode": "Unknown"
+  },
+  "Metaphor: ReFantazio": {
+    "genre": "RPG",
+    "description": "Embark on a fantastical adventure, solving puzzles, engaging in strategic combat, and uncovering the secrets of a mysterious world.",
+    "player_mode": "Singleplayer"
+  },
+  "Indiana Jones and the Great Circle": {
+    "genre": "Adventure",
+    "description": "Embark on a globe-trotting adventure as Indiana Jones, solving puzzles, overcoming perilous traps, and uncovering ancient secrets.",
+    "player_mode": "Singleplayer"
+  },
+  "Hell Let Loose": {
+    "genre": "FPS",
+    "description": "A realistic World War II first-person shooter offering large-scale battles with infantry, vehicles, and strategic gameplay.",
+    "player_mode": "Multiplayer"
+  },
+  "Super Mario 64": {
+    "genre": "Platformer",
+    "description": "Players navigate 3D levels as Mario, collecting stars by completing various challenges and overcoming obstacles.",
+    "player_mode": "Singleplayer"
+  },
+  "S.T.A.L.K.E.R. 2: Heart of Chornobyl": {
+    "genre": "FPS",
+    "description": "Explore a vast, post-apocalyptic Chernobyl Exclusion Zone, battling mutants and anomalies while completing quests and uncovering the zone's secrets.",
+    "player_mode": "Singleplayer"
+  },
+  "STALCRAFT: X": {
+    "genre": "Survival",
+    "description": "Explore a post-apocalyptic world, scavenge for resources, craft weapons and gear, and fight to survive against other players and the harsh environment.",
+    "player_mode": "Multiplayer"
+  },
+  "Supermarket Together": {
+    "genre": "Simulation",
+    "description": "Players cooperatively manage and expand a supermarket, balancing inventory, customer service, and staff management to maximize profits.",
+    "player_mode": "Multiplayer"
+  },
+  "Ragnarok Online 2": {
+    "genre": "MMORPG",
+    "description": "Players explore a vast world, battle monsters, complete quests, and customize characters in this massively multiplayer online role-playing game.",
+    "player_mode": "Multiplayer"
+  },
+  "The Outlast Trials": {
+    "genre": "Horror",
+    "description": "A terrifying psychological horror game where players endure gruesome experiments as test subjects in a Cold War-era facility. ",
+    "player_mode": "Multiplayer"
+  },
+  "Detroit: Become Human": {
+    "genre": "Adventure",
+    "description": "Players experience a branching narrative as androids in a futuristic Detroit, making choices that impact the story and characters' fates.",
+    "player_mode": "Singleplayer"
+  },
+  "EA Sports UFC 2": {
+    "genre": "Fighting",
+    "description": "EA Sports UFC 2 delivers realistic mixed martial arts combat, featuring a diverse roster of fighters and a deep career mode.",
+    "player_mode": "Both"
+  },
+  "Palia": {
+    "genre": "MMORPG",
+    "description": "A life simulation MMORPG where players build relationships, craft items, and explore a vibrant world with a cast of colorful characters.",
+    "player_mode": "Multiplayer"
+  },
+  "Green Hell": {
+    "genre": "Survival",
+    "description": "Struggle to survive in the Amazon rainforest, facing harsh environmental challenges and threats from wildlife and disease.",
+    "player_mode": "Singleplayer"
+  },
+  "Microsoft Flight Simulator 2024": {
+    "genre": "Simulation",
+    "description": "Microsoft Flight Simulator 2024 provides realistic flight simulation, featuring detailed aircraft and global scenery for immersive single-player experiences.",
+    "player_mode": "Singleplayer"
+  },
+  "Teamfight Tactics": {
+    "genre": "Strategy",
+    "description": "Auto battler game where players assemble teams of champions to battle each other, strategically positioning units and deploying items.",
+    "player_mode": "Multiplayer"
+  },
+  "No Man's Sky": {
+    "genre": "Sandbox",
+    "description": "Explore and survive in a vast, procedurally generated galaxy, discovering planets, resources, and alien life.  Customize your spaceship and upgrade your equipment.",
+    "player_mode": "Multiplayer"
+  },
+  "Farming Simulator 25": {
+    "genre": "Simulation",
+    "description": "Farming Simulator 25 offers realistic farming activities, including planting, harvesting, and livestock management, in a detailed open world.",
+    "player_mode": "Singleplayer"
+  },
+  "Tom Clancy's The Division 2": {
+    "genre": "Unknown",
+    "description": "Error: RetryError[<Future at 0x161224cb460 state=finished raised ResourceExhausted>]",
+    "player_mode": "Unknown"
+  },
+  "Super Smash Bros. Ultimate": {
+    "genre": "Fighting",
+    "description": "Players engage in arena-style combat, choosing from a vast roster of iconic characters with unique movesets and special attacks.  Features both single-player and multiplayer modes.",
+    "player_mode": "Both"
+  },
+  "Dying Light": {
+    "genre": "Survival",
+    "description": "Players fight for survival in a zombie-infested city, using parkour to traverse the environment and crafting weapons to combat hordes of enemies.",
+    "player_mode": "Both"
+  },
+  "Sniper Elite: Resistance": {
+    "genre": "FPS",
+    "description": "Experience World War 2 as a sniper, using stealth and precision shots to eliminate targets.  Navigate diverse environments and utilize a variety of weaponry and gadgets.",
+    "player_mode": "Singleplayer"
+  },
+  "New World: Aeternum": {
+    "genre": "MMORPG",
+    "description": "Explore a vast fantasy world, complete quests, craft items, and engage in large-scale PvP battles with other players.",
+    "player_mode": "Multiplayer"
+  },
+  "Hello Kitty Island Adventure": {
+    "genre": "Adventure",
+    "description": "Explore and develop Hello Kitty's island paradise, building homes, crafting items, and completing quests with friends.",
+    "player_mode": "Singleplayer"
+  },
+  "The Headliners": {
+    "genre": "Sports",
+    "description": "Players manage a sports team, recruiting and training players, strategizing gameplay, and competing against other teams for victory.",
+    "player_mode": "Multiplayer"
+  },
+  "Mir Tankov": {
+    "genre": "Strategy",
+    "description": "Command and control tanks in large-scale armored warfare. Engage in strategic battles with diverse units and upgradeable vehicles.",
+    "player_mode": "Multiplayer"
+  },
+  "The Binding of Isaac: Repentance": {
+    "genre": "Action",
+    "description": "A challenging, top-down action game where players explore randomly generated dungeons, battling monsters and collecting power-ups to survive.",
+    "player_mode": "Singleplayer"
+  },
+  "Exoborne": {
+    "genre": "RPG",
+    "description": "Embark on a sprawling space adventure, exploring diverse alien planets, engaging in epic turn-based combat, and uncovering a galaxy's mysteries.",
+    "player_mode": "Singleplayer"
+  },
+  "Grand Theft Auto: San Andreas": {
+    "genre": "Action",
+    "description": "Players explore a vast open world, engaging in criminal activities, vehicle theft, and gang warfare to progress through the storyline.",
+    "player_mode": "Singleplayer"
+  },
+  "Infinity Nikki": {
+    "genre": "Simulation",
+    "description": "Dress up and style virtual fashion models with an extensive collection of clothing items and accessories, creating unique looks.",
+    "player_mode": "Singleplayer"
+  },
+  "Borderlands 3": {
+    "genre": "FPS",
+    "description": "Explore a vast alien world, engaging in intense first-person shooting, looting diverse weaponry, and completing challenging missions. ",
+    "player_mode": "Both"
+  },
+  "Knight Online": {
+    "genre": "MMORPG",
+    "description": "A persistent online world where players assume the roles of knights, engaging in large-scale battles and quests.",
+    "player_mode": "Multiplayer"
+  },
+  "Supermarket Simulator": {
+    "genre": "Simulation",
+    "description": "Manage and operate a supermarket, balancing inventory, customer service, and staff management to maximize profits and efficiency.",
+    "player_mode": "Singleplayer"
+  }
+}
